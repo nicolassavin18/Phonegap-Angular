@@ -1,10 +1,6 @@
 angular-phonegap-seed
 =====================
 
-## Disclaimer
-
-This repo is no longer under active development. Instead, there's now a shiny new Yeoman generator. Check it out! https://github.com/thewildpendulum/gaps
-
 ## About
 
 A barebones seed project for getting started with [PhoneGap](http://phonegap.com/) and [AngularJS](http://angularjs.org/) (with routing!)
